@@ -22,7 +22,7 @@ This is a simple API built with Node.js and Fastify, providing information about
 
 ### Clone the Repository
 ```sh
-git clone ttps://github.com/lumab23/hp-movies-api.git
+git clone https://github.com/lumab23/hp-movies-api.git
 cd hp-movies-nodejs-project
 ```
 
